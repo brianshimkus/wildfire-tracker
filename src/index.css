@@ -8,3 +8,8 @@ body {
 	height: 100vh;
 	position: relative;
 }
+
+.LocationMarker__Icon {
+	font-size: 2rem;
+	color: red;
+}
